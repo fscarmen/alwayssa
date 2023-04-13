@@ -7,3 +7,6 @@
 ![image](https://github.com/dsadsadsss/alwaysdata/blob/main/5.PNG)
 
 
+参考：hiifeng/V2ray-for-AlwaysData
+
+
